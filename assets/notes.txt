@@ -1,0 +1,14 @@
+setelah click confirm di form registrasi akan ke redirect ke page confirm_form
+
+page confirm_form isinya data formulir yang diisi di page registration
+ada tombol back to edit utk edit data jika ada yang salah
+setelah click submit ada sweetalert success dan email pemberitahuan dikirim ke semua anggota tim
+
+Admin:
+admin bisa liat semua pendaftar
+admin bisa export list pendaftar
+admin bisa liat detail form semua tim yang mendaftar
+admin bisa approve tim yang layak
+admin bisa export list tim yg sudah di approve
+
+setelah di approve admin, seluruh anggota tim akan otomatis mendapat email pemberitahuan lolos
